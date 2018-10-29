@@ -16,7 +16,7 @@ import net.sf.json.JSONSerializer;
 
 /**
  *
- * @author rrandhi
+ * @author janardhan randhi
  */
 public class LoadToElastic {
 
