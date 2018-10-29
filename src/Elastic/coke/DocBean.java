@@ -3,7 +3,7 @@ package Elastic.coke;
 import io.searchbox.annotations.JestId;
 import net.sf.json.JSONObject;
 /**
- * @author rrandhi
+ * @author  janardhan randhi
  */
 public class DocBean 
 {
