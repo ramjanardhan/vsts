@@ -1,6 +1,5 @@
 
 package Elastic.coke;
-
 import com.fasterxml.jackson.databind.ObjectMapper;
 import io.searchbox.client.JestClient;
 import io.searchbox.client.JestClientFactory;
